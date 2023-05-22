@@ -43,3 +43,21 @@ valorViagem = float
 valorViagem = resultDivisao * valorGasolina
 
 print("Valor da sua viagem é: ", valorViagem )
+
+#Ex4: Pedir ao usuário sua altura em centimetros e exibir em metros (conversão simples)
+
+centimetro = float(input("Qual a sua altura em centrimetro? "))
+
+metro =  float
+metro = centimetro / 100
+
+print("Convertido em metros você tem ", metro, " metros!")
+
+
+
+
+
+
+
+
+
