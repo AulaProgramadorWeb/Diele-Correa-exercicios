@@ -14,7 +14,7 @@ else:
      print("O resultado é inválido : ")
 
 #Ex 2: Calcular o desconto do salário de um funcionário (11%),
-#exibindo o valor ou o desconto máximo permitido (318,20R$)
+#exibindo o valor ou o desconto máximo permitido (318,20R$) 
 
 salario = float(input("Qual o salario do funcionario: "))
 desconto = float(input("Qual a porcentagem de desconto:"))
